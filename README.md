@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @philboud
 - 👀 I’m interested in new frameworks js
-- 🌱 I’m currently learning vuejs
+- 🌱 I’m currently learning and using vuejs to developp my apps
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : philippe.boudet42@gmail.com
 
